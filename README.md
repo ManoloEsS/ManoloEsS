@@ -6,7 +6,7 @@ at WGU focusing on Domain Driven Design.
 I'm interested in building backend systems without forgetting the human aspect of designing and developing software (probably the hardest part),
 by being proficient in industry standards of Project Management Methodologies.
 
-I'm looking for a new full time role where I can apply my skills and surround myself with way better programmers than me,
+I'm looking for a new full time role where I can apply my skills and surround myself with way better programmers than me
 so that I can learn from them and contribute towards building some cool stuff!
 [Reach out!](www.linkedin.com/in/manoloess)
 
