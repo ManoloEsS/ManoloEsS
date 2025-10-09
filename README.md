@@ -1,4 +1,4 @@
-I'm Manolo, I work with backend systems in Go and Python.
+### I'm Manolo, I work with backend systems in Go and Python.
 
 I am currently on my way to finish the Backend Developer path in [Boot.Dev](https://boot.dev) and a Masters in Software Engineering
 at WGU focusing on Domain Driven Design.
