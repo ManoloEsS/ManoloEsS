@@ -10,7 +10,7 @@ I'm looking for a new full-time role where I can apply my skills and surround my
 so that I can learn from them and contribute towards building some cool stuff!
 [Reach out!](www.linkedin.com/in/manoloess)
 
-Check out what I have been working on in my [portfolio!](https://github.com/ManoloEsS/Portfolio)
+**Check out what I have been working on in my [portfolio!](https://github.com/ManoloEsS/Portfolio)**
 
 ### Some recent achievements
 - [Honorable mention in the 2025 Boot.Dev Hackathon](https://github.com/ManoloEsS/cli-password-manager)
