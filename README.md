@@ -19,6 +19,6 @@ so that I can learn from them and contribute towards building some cool stuff!
 ### Books I'm reading
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
-- [Vermis I - lost dungeons and forbidden woods](https://hollow-press.net/products/vermis-i)(not a programming book, but pretty nerdy nonetheless)
+- [Software Requirements](https://www.microsoftpressstore.com/store/software-requirements-9780735679665)
 
 
