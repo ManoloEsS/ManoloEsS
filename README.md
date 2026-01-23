@@ -1,9 +1,8 @@
 ### I'm Manolo, I work with backend systems in Go and Python.
 
-I am currently on my way to completing the Backend Developer path in [Boot.Dev](https://boot.dev) and earning a Master's in Software Engineering
-at WGU, focusing on Domain Driven Design.
+I am currently on my way to earning a Master's in Software Engineering at WGU, focusing on Domain Driven Design.
 
-I'm interested in building backend systems minding the human aspect of designing and developing software (probably the hardest part),
+I'm interested in building backend systems, paying special attention to the human aspect of designing and developing software (probably the hardest part),
 by striving to be proficient in industry-standard project management methodologies.
 
 I'm looking for a new full-time role where I can apply my skills and surround myself with programmers that are better than I am,
@@ -14,11 +13,11 @@ so that I can learn from them and contribute towards building some cool stuff!
 
 ### Some recent achievements
 - [Honorable mention in the 2025 Boot.Dev Hackathon](https://github.com/ManoloEsS/cli-password-manager)
-- Started learning Rust (how original, I know)
+- Finished the Backend Go Developer path in [boot.dev](https://boot.dev)
 
 ### Books I'm reading
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented-dp-149207800X/dp/149207800X/ref=dp_ob_title_bk)
 - [Software Requirements](https://www.microsoftpressstore.com/store/software-requirements-9780735679665)
 
 
