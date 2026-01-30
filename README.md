@@ -9,15 +9,12 @@ I'm looking for a new full-time role where I can apply my skills and surround my
 so that I can learn from them and contribute towards building some cool stuff!
 [Reach out!](www.linkedin.com/in/manoloess)
 
-**Check out what I have been working on in my [portfolio!](https://github.com/ManoloEsS/Portfolio)**
-
 ### Some recent achievements
 - [Honorable mention in the 2025 Boot.Dev Hackathon](https://github.com/ManoloEsS/cli-password-manager)
-- Finished the Backend Go Developer path in [boot.dev](https://boot.dev)
+- Finished the Backend Go Developer path in [boot.dev](https://www.boot.dev/u/manoloess)
 
 ### Books I'm reading
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented-dp-149207800X/dp/149207800X/ref=dp_ob_title_bk)
 - [Software Requirements](https://www.microsoftpressstore.com/store/software-requirements-9780735679665)
 
 
