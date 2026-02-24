@@ -1,12 +1,12 @@
 ### I'm Manolo, I work with backend systems in Go and Python.
 
-#### Backend Engineer | Go • Distributed Systems • REST APIs
+## Backend Engineer | Go • JavaScript/TypeScript • Distributed Systems
 
-I design and build backend systems with a focus on correctness, clarity, and long-term maintainability.
+I build backend systems primarily in Go (Golang), with additional backend experience in Python and Node.js (JavaScript/TypeScript).
 
-My primary language is Go (Golang). I also build backend services in Python and Node.js/TypeScript, with strong foundations in HTTP, RESTful API design, and relational databases.
+My focus is designing clean, reliable REST APIs with proper HTTP semantics, clear domain boundaries, and well-structured database models. I approach backend development as systems design — emphasizing correctness, maintainability, and scalability.
 
-Currently pursuing a Master’s in Software Engineering at Western Governors University, specializing in Domain-Driven Design and system architecture.
+Currently pursuing a Master’s in Software Engineering at Western Governors University, focusing on Domain-Driven Design and architecture.
 
 ---
 ### ⚙️ Core Expertise
