@@ -1,20 +1,69 @@
 ### I'm Manolo, I work with backend systems in Go and Python.
 
-I am currently on my way to earning a Master's in Software Engineering at WGU, focusing on Domain Driven Design.
+#### Backend Engineer | Go • Distributed Systems • REST APIs
 
-I'm interested in building backend systems, paying special attention to the human aspect of designing and developing software (probably the hardest part),
-by striving to be proficient in industry-standard project management methodologies.
+I design and build backend systems with a focus on correctness, clarity, and long-term maintainability.
 
-I'm looking for a new full-time role where I can apply my skills and surround myself with programmers that are better than I am,
-so that I can learn from them and contribute towards building some cool stuff!
-[Reach out!](www.linkedin.com/in/manoloess)
+My primary language is Go (Golang). I also build backend services in Python and Node.js/TypeScript, with strong foundations in HTTP, RESTful API design, and relational databases.
 
-### Some recent achievements
-- [Honorable mention in the 2025 Boot.Dev Hackathon](https://github.com/ManoloEsS/cli-password-manager)
-- Finished the Backend Go Developer path in [boot.dev](https://www.boot.dev/u/manoloess)
+Currently pursuing a Master’s in Software Engineering at Western Governors University, specializing in Domain-Driven Design and system architecture.
 
-### Books I'm reading
-- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- [Software Requirements](https://www.microsoftpressstore.com/store/software-requirements-9780735679665)
+### ⚙️ Core Expertise
 
+REST API design and HTTP protocol semantics
 
+Idempotency, status codes, and proper resource modeling
+
+Concurrency in Go (goroutines, channels, context)
+
+PostgreSQL schema design and SQL
+
+Secure backend design (encryption, authentication principles)
+
+Clean architecture and Domain-Driven Design (DDD)
+
+Dockerized services
+
+I approach backend engineering as systems design — not just writing endpoints, but designing boundaries, contracts, and data flows that scale cleanly.
+
+### 🛠 Technical Stack
+
+Languages
+Go (Golang), Python, JavaScript, TypeScript
+
+Backend
+REST, JSON APIs, Flask, Express, PostgreSQL, SQLite, MongoDB, RabbitMQ
+
+Infrastructure & Tooling
+Docker, Git, Linux
+
+Expanding Into
+React, GraphQL, fullstack system integration
+
+### 🏆 Highlights
+
+Honorable Mention – 2025 Hackathon at Boot.dev
+
+Completed the Backend Go Developer Path at Boot.dev
+
+Building production-style backend systems with Go as primary language
+
+### 📚 Currently Studying
+
+Designing Data-Intensive Applications
+
+Software Requirements
+
+### 🎯 Open to Backend Roles
+
+I’m looking for a full-time Backend Engineer role (Go preferred) or a Backend-leaning Fullstack position where I can:
+
+Contribute to real production systems
+
+Work with engineers who care about architecture and correctness
+
+Design clean, well-modeled APIs
+
+Grow into distributed systems and scalable backend architecture
+
+If you're building something ambitious, [let's talk](https://www.linkedin.com/in/manoloess).
