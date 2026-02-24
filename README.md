@@ -8,6 +8,7 @@ My primary language is Go (Golang). I also build backend services in Python and 
 
 Currently pursuing a Master’s in Software Engineering at Western Governors University, specializing in Domain-Driven Design and system architecture.
 
+
 ### ⚙️ Core Expertise
 
 REST API design and HTTP protocol semantics
@@ -26,6 +27,7 @@ Dockerized services
 
 I approach backend engineering as systems design — not just writing endpoints, but designing boundaries, contracts, and data flows that scale cleanly.
 
+
 ### 🛠 Technical Stack
 
 Languages
@@ -40,6 +42,7 @@ Docker, Git, Linux
 Expanding Into
 React, GraphQL, fullstack system integration
 
+
 ### 🏆 Highlights
 
 Honorable Mention – 2025 Hackathon at Boot.dev
@@ -48,11 +51,13 @@ Completed the Backend Go Developer Path at Boot.dev
 
 Building production-style backend systems with Go as primary language
 
+
 ### 📚 Currently Studying
 
 Designing Data-Intensive Applications
 
 Software Requirements
+
 
 ### 🎯 Open to Backend Roles
 
