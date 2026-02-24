@@ -2,14 +2,14 @@
 
 ## Backend Engineer | Go • JavaScript/TypeScript • Distributed Systems
 
-I build backend systems primarily in Go (Golang), with additional backend experience in Python and Node.js (JavaScript/TypeScript).
+I build backend systems primarily in `Go` (Golang), with additional backend experience in `Python` and Node.js (`JavaScript/TypeScript`).
 
 My focus is designing clean, reliable REST APIs with proper HTTP semantics, clear domain boundaries, and well-structured database models. I approach backend development as systems design — emphasizing correctness, maintainability, and scalability.
 
 Currently pursuing a Master’s in Software Engineering at Western Governors University, focusing on Domain-Driven Design and architecture.
 
 ---
-### ⚙️ Core Expertise
+### Core Expertise
 
 REST API design and HTTP protocol semantics
 
@@ -30,36 +30,36 @@ I approach backend engineering as systems design — not just writing endpoints,
 ---
 ### 🛠 Technical Stack
 
-Languages
+#### Languages
 Go (Golang), Python, JavaScript, TypeScript
 
-Backend
+#### Backend
 REST, JSON APIs, Flask, Express, PostgreSQL, SQLite, MongoDB, RabbitMQ
 
-Infrastructure & Tooling
+#### Infrastructure & Tooling
 Docker, Git, Linux
 
-Expanding Into
+#### Expanding Into
 React, GraphQL, fullstack system integration
 
 ---
 ### 🏆 Highlights
 
-Honorable Mention – 2025 Hackathon at Boot.dev
+Honorable Mention – [2025 Hackathon at Boot.dev](https://blog.boot.dev/news/hackathon-2025/)
 
-Completed the Backend Go Developer Path at Boot.dev
+Completed the Backend Go Developer Path at [Boot.dev](https://boot.dev)
 
 Building production-style backend systems with Go as primary language
 
 ---
 ### 📚 Currently Studying
 
-Designing Data-Intensive Applications
+[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
-Software Requirements
+[Software Requirements](https://www.microsoftpressstore.com/store/software-requirements-9780735679665)
 
 ---
-### 🎯 Open to Backend Roles
+### Open to Backend Roles
 
 I’m looking for a full-time Backend Engineer role (Go preferred) or a Backend-leaning Fullstack position where I can:
 
@@ -72,3 +72,6 @@ Design clean, well-modeled APIs
 Grow into distributed systems and scalable backend architecture
 
 If you're building something ambitious, [let's talk](https://www.linkedin.com/in/manoloess).
+
+--- 
+#### Check out my [portfolio](https://github.com/ManoloEsS/Portfolio)
