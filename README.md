@@ -4,7 +4,7 @@
 
 I build backend systems primarily in `Go` (Golang), with additional backend experience in `Python` and Node.js (`JavaScript/TypeScript`).
 
-My focus is designing clean, reliable REST APIs with proper HTTP semantics, clear domain boundaries, and well-structured database models. I approach backend development as systems design — emphasizing correctness, maintainability, and scalability.
+My focus is designing clean, reliable REST APIs, clear domain boundaries, and well-structured database models. I approach backend development as systems design — emphasizing correctness, maintainability, and scalability.
 
 Currently pursuing a Master’s in Software Engineering at Western Governors University, focusing on Domain-Driven Design and architecture.
 
@@ -13,11 +13,9 @@ Currently pursuing a Master’s in Software Engineering at Western Governors Uni
 
 REST API design and HTTP protocol semantics
 
-Idempotency, status codes, and proper resource modeling
-
 Concurrency in Go (goroutines, channels, context)
 
-PostgreSQL schema design and SQL
+Relational Databases
 
 Secure backend design (encryption, authentication principles)
 
