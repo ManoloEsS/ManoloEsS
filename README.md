@@ -41,20 +41,5 @@ Honorable Mention – [2025 Hackathon at Boot.dev](https://blog.boot.dev/news/ha
 
 Completed the Backend Go Developer Path at [Boot.dev](https://boot.dev)
 
----
-### Open to Backend Roles
-
-I’m looking for a full-time Backend Engineer role (Go preferred) or a Backend-leaning Fullstack position where I can:
-
-Contribute to real production systems
-
-Work with engineers who care about architecture and correctness
-
-Design clean, well-modeled APIs
-
-Grow into distributed systems and scalable backend architecture
-
-If you're building something ambitious, [let's talk](https://www.linkedin.com/in/manoloess).
-
 --- 
-#### Check out my [portfolio](https://github.com/ManoloEsS/Portfolio)
+#### Check out my pinned projects
