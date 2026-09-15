@@ -1,26 +1,28 @@
 ### I'm Manolo
 
-## Backend Engineer | Go • JavaScript/TypeScript • Distributed Systems
+## Systems & Infrastructure | Linux • Networking • Automation
 
-I build backend systems primarily in `Go` (Golang), with additional backend experience in `Python` and Node.js (`JavaScript/TypeScript`).
+I'm building my career around systems, infrastructure, networking, and cloud technologies, supported by a background in software engineering and technical support.
 
-Currently pursuing a Master’s in Software Engineering at Western Governors University, focusing on Domain-Driven Design and architecture.
-
----
-### Core Expertise
-
-REST API design and HTTP protocol semantics
-
-Concurrency in Go (goroutines, channels, context)
-
-Relational Databases
-
-Secure backend design (encryption, authentication principles)
-
-Clean architecture and Domain-Driven Design (DDD)
+I recently completed an MS in Software Engineering and hold the CompTIA A+ certification. I'm currently studying for CompTIA Network+ while building hands-on experience with Linux administration, networking, self-hosted services, containers, troubleshooting, and automation.
 
 ---
-### 🛠 Technical Stack
+### Infrastructure and Systems
+
+- Linux / Ubuntu Server
+
+- TCP/IP, DNS, DHCP, VPNs, routing, and firewalls
+
+- SSH and remote administration
+
+- Docker and Docker Compose
+
+- System troubleshooting and operational documentation
+
+- Self-hosted services and network infrastructure
+
+---
+### Software & Automation
 
 #### Languages
 Go (Golang), Python, JavaScript, TypeScript
@@ -31,15 +33,30 @@ REST, JSON APIs, Flask, Express, PostgreSQL, SQLite, MongoDB, RabbitMQ
 #### Infrastructure & Tooling
 Docker, Git, Linux
 
-#### Expanding Into
-React, GraphQL, fullstack system integration
 
 ---
-### 🏆 Highlights
+### Current Focus
 
-Honorable Mention – [2025 Hackathon at Boot.dev](https://blog.boot.dev/news/hackathon-2025/)
+I'm currently expanding my hands-on infrastructure experience through a documented Linux server and networking lab while studying for Network+.
 
-Completed the Backend Go Developer Path at [Boot.dev](https://boot.dev)
+My longer-term focus is cloud infrastructure and platform engineering, where I can combine systems knowledge with software engineering and automation.
 
 --- 
-#### Check out my pinned projects
+### Featured Work
+
+Self-Hosted Server Lab — Linux administration, networking, Docker, DNS, SSH, VPN access, firewall configuration, service operations, troubleshooting, backups, and recovery.
+
+Burrow — Terminal-based HTTP client and Go server manager for REST API development.
+
+NaCl — Password manager implementing envelope encryption in Go.
+
+--- 
+### Background
+
+- MS Software Engineering — Western Governors University
+
+- CompTIA A+
+
+- Completed Boot.dev Backend Go Developer Path
+
+- Previous professional IT support experience supporting Windows and macOS users
